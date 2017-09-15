@@ -1,0 +1,25 @@
+{
+  "name": "coffeeloop",
+  "version": "1.0.0",
+  "description": "simple chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisantoni/coffeeloop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisantoni/coffeeloop/issues"
+  },
+  "homepage": "https://github.com/chrisantoni/coffeeloop#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}

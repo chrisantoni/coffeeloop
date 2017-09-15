@@ -1,6 +1,7 @@
 ### Coffee Loop
 ##### simple chat application
 
+
 ### Team members
 
 | Name        | Roles           |
